@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class Solution {
+class ad_제거하기 {
     public String[] solution(String[] strArr) {
         List<String> list = new ArrayList<>();
         for (String a : strArr) {
