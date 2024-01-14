@@ -2,6 +2,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 // 알고리즘 문제 형식
+
+/*
 class Solution {
     public String solution(String my_string, String alp) {
         String answer = "";
@@ -15,4 +17,4 @@ class Solution {
 
         return answer;
     }
-}
+}*/
