@@ -1,4 +1,4 @@
-class Solution {
+class 삼각형의_완성조건_2 {
     public int solution(int[] sides) {
         int answer = 0;
 
