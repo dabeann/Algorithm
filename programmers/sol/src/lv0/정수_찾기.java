@@ -1,0 +1,13 @@
+package lv0;
+
+class 정수_찾기 {
+    public int solution(int[] num_list, int n) {
+        int answer = 0;
+
+        for(int a: num_list){
+            if(a==n) answer = 1;
+        }
+
+        return answer;
+    }
+}
