@@ -2,7 +2,7 @@ package sol.baekjoon.ex;
 
 import java.util.*;
 
-public class DFS와BFS_1260 {
+public class DFS와_BFS_1260 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt(); // 정점의 개수
