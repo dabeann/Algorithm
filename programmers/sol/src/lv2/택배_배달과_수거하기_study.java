@@ -43,7 +43,7 @@ public class 택배_배달과_수거하기_study {
             while (!deli.isEmpty()) {
                 if (deli.peek().box > nowDelivery) {
                     Node node = deli.pop();
-                    deli.push(new Node(node.number, node.box -nowDelivery));
+                    deli.push(new Node(node.number, node.box - nowDelivery));
                     break;
                 } else {
                     nowDelivery -= deli.pop().box;
